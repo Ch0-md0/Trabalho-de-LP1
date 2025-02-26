@@ -1,0 +1,42 @@
+[
+    {
+        "Nome": "caio",
+        "DataNascimento": "31/10/2008",
+        "Altura": 1.74,
+        "Sexo": "masculino",
+        "Posicao": "libero",
+        "Experiencia": "mediana"
+    },
+    {
+        "Nome": "pedro richard",
+        "DataNascimento": "31/10/2007",
+        "Altura": 1.83,
+        "Sexo": "masculino",
+        "Posicao": "central",
+        "Experiencia": "pouca"
+    },
+    {
+        "Nome": "lyra",
+        "DataNascimento": "09/06/2008",
+        "Altura": 1.73,
+        "Sexo": "masculino",
+        "Posicao": "levantador",
+        "Experiencia": "pouca"
+    },
+    {
+        "Nome": "gustavo, o tomas",
+        "DataNascimento": "06/09/2008",
+        "Altura": 1.75,
+        "Sexo": "masculino",
+        "Posicao": "ponteiro",
+        "Experiencia": "mediana"
+    },
+    {
+        "Nome": "domingao",
+        "DataNascimento": "03/12/2008",
+        "Altura": 2.1,
+        "Sexo": "masculino",
+        "Posicao": "oposto",
+        "Experiencia": "alta"
+    }
+]
