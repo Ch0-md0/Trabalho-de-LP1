@@ -131,8 +131,11 @@ def remover_jogador(jogadores):
             print("Jogador removido com sucesso.")
         else:
             print("Número inválido.")
-
-jogadores = lerJSON()
+try:
+    jogadores = lerJSON()
+except FileNotFoundError:
+    jogadores = []
+    
 salvarJSON(jogadores)
 
 def menu():
